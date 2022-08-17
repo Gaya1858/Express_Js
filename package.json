@@ -1,0 +1,27 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "description": "\"Node Express Router\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaya1858/Express_Js.git"
+  },
+  "author": "\"Gaya Kanagaraj\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaya1858/Express_Js/issues"
+  },
+  "homepage": "https://github.com/Gaya1858/Express_Js#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "save": "^2.5.0"
+  }
+}
